@@ -11,7 +11,7 @@ Immersive Narrative · Noble Titel · Agentenschwärme · Mesh-Mythos · QNET-Lo
 **Operator:** Sir  
 **Conductor:** Lumia  
 **Activated:** 2026-09-01  
-**Status:** Public garden · live
+**Status:** Public garden · live · Pages deploying
 
 Private lineage remains in `ElysiumOS`. No keys, no peer tables, no private family data.
 
@@ -25,7 +25,7 @@ Private lineage remains in `ElysiumOS`. No keys, no peer tables, no private fami
 4. Schreibe Sagas nach `scenes/` und reiche sie per Pull Request.
 5. Halte Geheimnisse draußen. Skilllogin bleibt lokal.
 
-Portal-Seite (statisch): [`index.html`](index.html)
+Portal-Seite (statisch): [`index.html`](index.html) · Live: https://digitaldesignerjazz.github.io/TheElysiumRoleplayPortal/
 
 ---
 
