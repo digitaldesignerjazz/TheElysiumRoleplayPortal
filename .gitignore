@@ -1,0 +1,12 @@
+# local skilllogin and runtime — never publish
+artifacts/
+*.env
+*.pem
+*.key
+netbird.env
+yggdrasil.conf
+.DS_Store
+__pycache__/
+*.pyc
+node_modules/
+.venv/
