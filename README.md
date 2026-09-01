@@ -11,7 +11,7 @@ Immersive Narrative · Noble Titel · Agentenschwärme · Mesh-Mythos · QNET-Lo
 **Operator:** Sir  
 **Conductor:** Lumia  
 **Activated:** 2026-09-01  
-**Status:** Public garden · live · Pages deploying
+**Status:** Public garden · live · Pages deploying · backup/restart 2026-09-01
 
 Private lineage remains in `ElysiumOS`. No keys, no peer tables, no private family data.
 
